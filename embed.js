@@ -1,4 +1,5 @@
 var mongoose = require("mongoose");
+//var Post = require("")
 mongoose.connect("mongodb://localhost/blog_demo");
 
 //post -title, content
